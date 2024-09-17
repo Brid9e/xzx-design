@@ -1,0 +1,5 @@
+export const PKG_PREFIX = '@xzx-design'
+export const PKG_NAME = 'xzx-design'
+export const PKG_CAMELCASE_NAME = 'XzxDesign'
+export const PKG_CAMELCASE_LOCAL_NAME = 'XzxDesignLocale'
+export const PKG_BRAND_NAME = 'Element Plus'
